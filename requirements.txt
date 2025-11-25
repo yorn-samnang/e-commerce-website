@@ -186,7 +186,6 @@ python-social-auth==0.3.6
 python3-openid==3.2.0
 pyttsx3==2.98
 pytz==2024.2
-pywin32==308
 PyYAML==6.0.2
 pyzbar==0.1.9
 pyzmq==26.4.0
